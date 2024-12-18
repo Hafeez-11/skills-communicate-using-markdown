@@ -14,3 +14,6 @@ def Run_loop():
             print("This is not a valid answer!")
             Run_loop()
 ```
+- [x] cat is silly
+- [x] cat is orange
+- [ ] cat is 
